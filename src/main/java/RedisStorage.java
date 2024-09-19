@@ -1,5 +1,3 @@
-package com.skillbox.redisdemo;
-
 import org.redisson.Redisson;
 import org.redisson.api.RKeys;
 import org.redisson.api.RScoredSortedSet;

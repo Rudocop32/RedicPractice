@@ -1,3 +1,7 @@
+import org.redisson.api.RScoredSortedSet;
+
+import java.util.Random;
+
 public class RedisPractice {
 
     static Random random = new Random();
